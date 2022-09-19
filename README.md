@@ -30,10 +30,14 @@ A seguinte linguagem de programação foi usada:
 ## :mortar_board: Autora
 
 <table align="center">
+## :mortar_board: Autores
+
+
+<table align="center">
     <tr>
         <td align="center">
             <a href="https://github.com/aneskak">
-                <img src="mulher.png" width="150px;" alt="Imagem Desenvolvedora" />
+                <img src="https://avatars.githubusercontent.com/u/97143577?v=4" width="150px;" alt="Avatar da Aneska" />
                 <br />
                 <sub><b>Aneska Karina</b></sub>
             </a>
@@ -41,5 +45,6 @@ A seguinte linguagem de programação foi usada:
     </tr>
 </table>
 <h4 align="center">
-   Feito com 💖 por <a href="https://www.linkedin.com/in/aneska-karina-7521795b/" target="_blank"> Aneska Karina </a>
+   Feito com 💖 por  <a href="https://www.linkedin.com/in/aneska/" target="_blank"> Aneska Karina </a>
 </h4>
+
